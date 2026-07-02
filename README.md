@@ -4,7 +4,7 @@
 
 Floorit is a full-stack SaaS platform that lets homeowners, flooring retailers, and contractors preview flooring materials (epoxy, hardwood, tile, marble, vinyl, and more) in a customer's real space before a single tile is ordered. It's built around a credit-based generation engine, a multi-provider AI orchestration layer, a public REST API, and an embeddable JavaScript widget that lets any third-party website offer the same visualizer under their own branding.
 
-> 🔗 **Live demo:** _add your production URL or a short Loom/YouTube walkthrough link here_
+> 🔗 **Live demo:** https://floorit.app
 > 🖼️ **Screenshots:** _drop a few before/after generation screenshots or a GIF here — this is the single highest-impact addition you can make to this README_
 
 ---
@@ -155,8 +155,8 @@ Because this is an excerpt of a larger private Laravel application, `composer in
 
 ## License
 
-Shared for portfolio and demonstration purposes only. This is proprietary, commercially-operated code — please don't copy it into another project without asking first.
+The code in this repository is shared under the [MIT License](LICENSE) — you're free to read, learn from, and reuse these patterns. Note that this is an excerpt of a larger closed-source production application; the license covers what's shown here, not the full Floorit platform.
 
 ---
 
-Built by **[Your Name]** — _add a one-line bio + links to your portfolio site, LinkedIn, and GitHub profile here_.
+Built by **Prince Obinna** — [GitHub](https://github.com/devobinna) — _add your portfolio site and LinkedIn link here_.
