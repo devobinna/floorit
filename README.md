@@ -1,4 +1,4 @@
-# Floorit AI-Powered Flooring Visualizer
+# Floorit: AI-Powered Flooring Visualizer
 
 **Upload a photo of any room. Pick a flooring texture. Get a photorealistic render of what it would actually look like in seconds.**
 
