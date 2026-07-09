@@ -158,4 +158,4 @@ The code in this repository is shared under the [MIT License](LICENSE) you're fr
 
 ---
 
-Built by **Prince Obinna** [GitHub](https://github.com/devobinna) _add your portfolio site and LinkedIn link here_.
+Built by **THE SOG** [GitHub](https://github.com/SOGTheFirst).
